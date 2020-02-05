@@ -1,14 +1,14 @@
 # case-for-universal-meanings
-<h1><strong>Flat-Design Icon Sets: a Case for Universal Meanings?<strong></h1><br /><br />
-Andrea M. Legleiter<sup>1</sup> and Nicholas Caporusso<sup>2</sup>
+<h3><strong>Flat-Design Icon Sets: a Case for Universal Meanings?<strong></h3><br /><br />
+<h6>Andrea M. Legleiter<sup>1</sup> and Nicholas Caporusso<sup>2</sup>
 <br />
 <sup>1</sup> Department of Informatics, Fort Hays State University,<br /> 
 600 Park Street, 67601 Hays, United States<br />
 <sup>2</sup> Department of Computer Science, Northern Kentucky University,<br /> 
 Louie B Nunn Dr, 41099 Highland Heights, United States<br />
-amlegleiter@mail.fhsu.edu, caporusson1@nku.edu<br /><br />
+     amlegleiter@mail.fhsu.edu, caporusson1@nku.edu<br /></h6><br />
 <br />
-Abstract. Nowadays, the Internet has reached a level of maturity that enables categorizing the main types of websites, 
+<strong>Abstract.</strong> Nowadays, the Internet has reached a level of maturity that enables categorizing the main types of websites, 
 the most common actions that the end-user can engage in, and the recurring patterns that characterize interactions. As 
 users have become more accustomed to the shared features of web-sites and web applications (e.g., sign in, access cart, 
 download file), pictographic icons have been increasingly used to replace text labels. Flat design is among the most recent 
