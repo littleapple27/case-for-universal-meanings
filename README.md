@@ -1,5 +1,5 @@
 # case-for-universal-meanings
-Flat-Design Icon Sets: a Case for Universal Meanings?<br /><br />
+<h1><strong>Flat-Design Icon Sets: a Case for Universal Meanings?<strong></h1><br /><br />
 Andrea M. Legleiter<sup>1</sup> and Nicholas Caporusso<sup>2</sup>
 <br />
 <sup>1</sup> Department of Informatics, Fort Hays State University,<br /> 
