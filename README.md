@@ -2,13 +2,13 @@
 Flat-Design Icon Sets: 
 a Case for Universal Meanings?
 Andrea M. Legleiter1 and Nicholas Caporusso2
-
+<br />
 1 Department of Informatics, Fort Hays State University, 
 600 Park Street, 67601 Hays, United States
 2 Department of Computer Science, Northern Kentucky University, 
 Louie B Nunn Dr, 41099 Highland Heights, United States
 amlegleiter@mail.fhsu.edu, caporusson1@nku.edu
-
+<br />
 Abstract. Nowadays, the Internet has reached a level of maturity that enables categorizing the main types of websites, 
 the most common actions that the end-user can engage in, and the recurring patterns that characterize interactions. As 
 users have become more accustomed to the shared features of web-sites and web applications (e.g., sign in, access cart, 
