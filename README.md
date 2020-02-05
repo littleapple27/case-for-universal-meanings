@@ -1,12 +1,11 @@
 # case-for-universal-meanings
-<h3><strong>Flat-Design Icon Sets: a Case for Universal Meanings?<strong></h3><br /><br />
-<h6>Andrea M. Legleiter<sup>1</sup> and Nicholas Caporusso<sup>2</sup>
-<br />
+<h3><strong>Flat-Design Icon Sets: a Case for Universal Meanings?<strong></h3><br />
+<p>Andrea M. Legleiter<sup>1</sup> and Nicholas Caporusso<sup>2</sup><br />
 <sup>1</sup> Department of Informatics, Fort Hays State University,<br /> 
 600 Park Street, 67601 Hays, United States<br />
 <sup>2</sup> Department of Computer Science, Northern Kentucky University,<br /> 
 Louie B Nunn Dr, 41099 Highland Heights, United States<br />
-     amlegleiter@mail.fhsu.edu, caporusson1@nku.edu<br /></h6><br />
+     <a href="mailto:amlegleiter@mail.fhsu.edu">amlegleiter@mail.fhsu.edu</a>, <a href="mailto:caporusson1@nku.edu">caporusson1@nku.edu</a><br /></p>
 <br />
 <strong>Abstract.</strong> Nowadays, the Internet has reached a level of maturity that enables categorizing the main types of websites, 
 the most common actions that the end-user can engage in, and the recurring patterns that characterize interactions. As 
